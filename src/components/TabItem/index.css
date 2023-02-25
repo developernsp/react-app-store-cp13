@@ -1,0 +1,13 @@
+.tab-item {
+  color: #7b8794;
+}
+.activeTab {
+  border-bottom: 1px solid #2563eb;
+  color: #2563eb;
+}
+.btn {
+  border: none;
+}
+.tab-name {
+  font-size: 15px;
+}
